@@ -39,6 +39,15 @@ It provides a structured compliance engine covering Income Tax, GST, MCA, Labour
 ---
 
 ## 📂 Project Structure
+ComplyRight/
+│── index.html
+│── style.css
+│── app.js
+│── manifest.json
+│── service-worker.js
+│── logo.png
+│── icon-192.png
+│── icon-512.png
 
 ---
 
